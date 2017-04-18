@@ -1,0 +1,71 @@
+---
+layout: product
+permalink: konfirmasi-pembayaran
+title: Konfirmasi Pembayaran
+description: Halaman konfirmasi pembayaran. Jika Anda sudah melakukan pembayaran, konfirmasi di halaman ini.
+---
+
+					<div class="features_items"><!--features_items-->
+						<h1 class="title text-center">Konfirmasi Pembayaran</h1>
+
+						
+						<div class="tab-content">
+							<div id="ratajustify">
+								<div class="col-sm-12">
+									<p>Pembayaran dapat dikirim ke salah satu rekening berikut ini :<br>
+									Bank BCA : {{ site.bca }}<br>
+									Bank Muamalat : {{ site.muamalat }}<br>
+									Bank Mandiri : {{ site.mandiri }}</p>
+
+									<p>Setelah pembayaran, silahkan konfirmasi pembayaran Anda ke salah satu kontak kami. Berikut ini kontak kami :<br>
+									SMS/WA/Line : {{ site.telp }}<br>
+									BBM : {{ site.bbm }}<br>
+									Email : {{ site.email }}</p>
+
+									<p>Atau bisa juga konfirmasi dengan cara mengisi data di bawah ini :</p>
+
+									<div class="contact-form">
+					    				<form id="main-contact-form" class="contact-form row" name="contact-form" method="post" action="https://formspree.io/lipatanid@gmail.com">
+								            <div class="form-group col-md-6">
+								                <input type="text" name="name" class="form-control" required="required" placeholder="Nama Pemilik Rekening">
+								            </div>
+								            <div class="form-group col-md-6">
+								                <input type="text" name="nominal" class="form-control" required="required" placeholder="Jumlah Bayar">
+								            </div>
+
+								            <div class="form-group col-md-6">
+								                <input type="text" name="tanggal" class="form-control" required="required" placeholder="Tanggal Bayar">
+								            </div>
+								            <div class="form-group col-md-6">
+								                <input type="text" name="cara" class="form-control" required="required" placeholder="Cara Pembayaran (Transfer Bank/ATM, Internet/Mobile/SMS Banking)">
+								            </div>
+
+								            <div class="form-group col-md-6">
+								                <input type="text" name="kebank" class="form-control" required="required" placeholder="Transfer ke Rekening Mana (BCA/Muamalat/Mandiri)">
+								            </div>
+								            <div class="form-group col-md-6">
+								                <input type="text" name="daribank" class="form-control" required="required" placeholder="Transfer dari Rekening Mana (Bank Anda)">
+								            </div>
+
+								            <div class="form-group col-md-12">
+								                <input type="email" name="email" class="form-control" required="required" placeholder="Email Anda">
+								            </div>
+
+								            <div class="form-group col-md-12">
+								                <textarea name="message" id="message" required="required" class="form-control" rows="8" placeholder="Sebutkan produk atau jasa yang Anda beli"></textarea>
+								            </div>
+
+								            <input type="hidden" name="_subject" value="Konfirmasi Pembayaran" />			            
+								            <input type="hidden" name="_next" value="https://www.lipatan.com/thanks" />			                
+								            <input type="text" name="_gotcha" style="display:none" />				            
+								            <div class="form-group col-md-12">
+								                <input type="submit" class="btn btn-primary pull-right" value="Kirim">			                
+								            </div>
+								        </form>
+					    			</div>								            
+									
+								</div>
+							</div>							
+						</div>												
+						
+					</div><!--features_items-->
