@@ -1,0 +1,23 @@
+---
+layout: post
+title: Pencarian
+permalink: search
+description: Halaman Pencarian.
+---
+
+<div>
+<h1 class="title text-center">Hasil Pencarian</h1>
+</div>
+
+<script>
+  (function() {
+    var cx = '{{ site.google_cse }}';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:searchresults-only></gcse:searchresults-only>
