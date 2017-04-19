@@ -35,6 +35,10 @@ google_site_verification: rAE_yObYTNwZzvqreXkPWROyvlkGY1feHdlKCc3thJA
 google_analytics: UA-61959730-3
 google_cse: 004200709654862820302:owlayxkjfs4
 
+#Submodule
+layouts_dir:  /resources/_layouts
+includes_dir: /resources/_includes
+
 # Build settings
 markdown: kramdown
 permalink: /:title
