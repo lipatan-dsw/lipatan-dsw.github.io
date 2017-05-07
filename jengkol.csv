@@ -1,959 +1,554 @@
 title,permalink,body,published_at,filter,categories,tags,jenis,brand,description,image,product,price,sku,kondisi
 Jual High Heels Wanita - SH 5165 Murah,high-heels-wanita-sh-5165,"
-     <div class=""product-details""><!--product-details-->
-      <div class=""col-sm-5"">
-       <div class=""view-product"">
-        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
-        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
+      
+      <div class=""col-sm-4"">
+       <div class=""product-image-wrapper"">
+        <div class=""single-products"">
+          <div class=""productinfo text-center"">
+           <img src=""{{ https://images.lipatan.com/katalog-java-seven-2017/foto-produk-satuan/709-skr-802.jpg }}"" alt=""{{ Jaket / Sweater Anak Perempuan - SKR 802 }}"" title=""{{ Jaket / Sweater Anak Perempuan - SKR 802 }}"" />
+           <p>{{ Rp 116.900 }}</p>
+           <h2>{{ Jaket / Sweater Anak Perempuan - SKR 802 }}</h2>
+           <a href=""{{ https://www.lipatan.com/java-seven/jaket-sweater-anak-perempuan-skr-802 }}"" class=""btn btn-default add-to-cart"" title=""Beli""><i class=""fa fa-shopping-cart""></i>Beli</a>
+          </div>
+          <div class=""product-overlay"">
+           <div class=""overlay-content"">
+            <p>{{ Rp 116.900 }}</p>
+            <h2>{{ Jaket / Sweater Anak Perempuan - SKR 802 }}</h2>
+            <a href=""{{ https://www.lipatan.com/java-seven/jaket-sweater-anak-perempuan-skr-802 }}"" class=""btn btn-default add-to-cart"" title=""Beli""><i class=""fa fa-shopping-cart""></i>Beli</a>
+           </div>
+          </div>
+        </div>
        </div>
       </div>
+      
+      
 
-      <div class=""col-sm-7"">
-       <div class=""product-information""><!--/product-information-->
-        <h1>{{ page.product }}</h1>
-        <p>SKU: {{ page.sku }}</p>
-        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
-        <span>
-         <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
-          </a>
-         </label>
-        </span>
-        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
-        <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
-       </div><!--/product-information-->
-      </div>
-     </div><!--/product-details-->
-     
-     <div class=""category-tab shop-details-tab""><!--category-tab-->
-      <div class=""col-sm-12"">
-       <ul class=""nav nav-tabs"">
-        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
-       </ul>
-      </div>
-      <div class=""tab-content"">
-       <div class=""tab-pane fade active in"" id=""keterangan"" >
-        <div class=""col-sm-12"">
-         <h2>{{ page.product }}</h2>         
-         <ol class=""breadcrumb"">
-            <li class=""active"">Tag :</li>
-            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
-            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
-         </ol>         
-         <p>Tampil trendy dengan Sandal High Heels Wanita merek Garucci. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. High Heels Wanita - SH 5165 dengan bahan Synth ini dijamin awet.<br/>Kode : SH 5165<br/>Warna : Cream Comb<br/>Bahan : Synth<br/>Ukuran : 36-40<br/>Berat : 1 kg<br>
-         </p>
-
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
-         ID Penjual : BDRS<br>
-         Lokasi : Bandung</p>
-
-         {% include share.html %}
-
-         {% include disqus.html %}
-         
+      
+      <div class=""col-sm-4"">
+       <div class=""product-image-wrapper"">
+        <div class=""single-products"">
+          <div class=""productinfo text-center"">
+           <img src=""{{ https://images.lipatan.com/katalog-catenzo-2017/foto-produk-satuan/601-mt-019.jpg }}"" alt=""{{ Pakaian Wanita / Dress / Tunik - MT 019 }}"" title=""{{ Pakaian Wanita / Dress / Tunik - MT 019 }}"" />
+           <p>{{ Rp 164.900 }}</p>
+           <h2>{{ Pakaian Wanita / Dress / Tunik - MT 019 }}</h2>
+           <a href=""{{ https://www.lipatan.com/catenzo/pakaian-wanita-dress-tunik-mt-019 }}"" class=""btn btn-default add-to-cart"" title=""Beli""><i class=""fa fa-shopping-cart""></i>Beli</a>
+          </div>
+          <div class=""product-overlay"">
+           <div class=""overlay-content"">
+            <p>{{ Rp 164.900 }}</p>
+            <h2>{{ Pakaian Wanita / Dress / Tunik - MT 019 }}</h2>
+            <a href=""{{ https://www.lipatan.com/catenzo/pakaian-wanita-dress-tunik-mt-019 }}"" class=""btn btn-default add-to-cart"" title=""Beli""><i class=""fa fa-shopping-cart""></i>Beli</a>
+           </div>
+          </div>
         </div>
-       </div>       
-       
-      </div>
-     </div><!--/category-tab-->",1/23/2017,html,sandal-high-heels-wanita,garucci,sandal-high-heels-wanita,garucci,"Sandal High Heels Wanita Bahan Synth, Ukuran 36-40, Warna Cream Comb",https://images.lipatan.com/katalog-garucci-2016/foto-satuan/1-sh-5165.jpg,High Heels Wanita - SH 5165,Rp 174.900,SH 5165,Baru
-Jual Sepatu Formal Wanita - SH 4201 Murah,sepatu-formal-wanita-sh-4201,"
-     <div class=""product-details""><!--product-details-->
-      <div class=""col-sm-5"">
-       <div class=""view-product"">
-        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
-        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
        </div>
       </div>
+      
+      
 
-      <div class=""col-sm-7"">
-       <div class=""product-information""><!--/product-information-->
-        <h1>{{ page.product }}</h1>
-        <p>SKU: {{ page.sku }}</p>
-        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
-        <span>
-         <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
-          </a>
-         </label>
-        </span>
-        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
-        <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
-       </div><!--/product-information-->
-      </div>
-     </div><!--/product-details-->
-     
-     <div class=""category-tab shop-details-tab""><!--category-tab-->
-      <div class=""col-sm-12"">
-       <ul class=""nav nav-tabs"">
-        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
-       </ul>
-      </div>
-      <div class=""tab-content"">
-       <div class=""tab-pane fade active in"" id=""keterangan"" >
-        <div class=""col-sm-12"">
-         <h2>{{ page.product }}</h2>         
-         <ol class=""breadcrumb"">
-            <li class=""active"">Tag :</li>
-            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
-            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
-         </ol>         
-         <p>Tampil trendy dengan Sepatu Pantofel Wanita merek Garucci. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sepatu Formal Wanita - SH 4201 dengan bahan Synth ini dijamin awet.<br/>Kode : SH 4201<br/>Warna : Black & Brown<br/>Bahan : Synth<br/>Ukuran : 36-40<br/>Berat : 1 kg<br>
-         </p>
-
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
-         ID Penjual : BDRS<br>
-         Lokasi : Bandung</p>
-
-         {% include share.html %}
-
-         {% include disqus.html %}
-         
+      
+      <div class=""col-sm-4"">
+       <div class=""product-image-wrapper"">
+        <div class=""single-products"">
+          <div class=""productinfo text-center"">
+           <img src=""{{ https://images.lipatan.com/katalog-hrcn-2017/foto-produk-satuan/239-h-5255.jpg }}"" alt=""{{ Sepatu Olahraga / Sport / Running Pria - H 5255 }}"" title=""{{ Sepatu Olahraga / Sport / Running Pria - H 5255 }}"" />
+           <p>{{ Rp 277.900 }}</p>
+           <h2>{{ Sepatu Olahraga / Sport / Running Pria - H 5255 }}</h2>
+           <a href=""{{ https://www.lipatan.com/hrcn/sepatu-olahraga-sport-running-pria-h-5255 }}"" class=""btn btn-default add-to-cart"" title=""Beli""><i class=""fa fa-shopping-cart""></i>Beli</a>
+          </div>
+          <div class=""product-overlay"">
+           <div class=""overlay-content"">
+            <p>{{ Rp 277.900 }}</p>
+            <h2>{{ Sepatu Olahraga / Sport / Running Pria - H 5255 }}</h2>
+            <a href=""{{ https://www.lipatan.com/hrcn/sepatu-olahraga-sport-running-pria-h-5255 }}"" class=""btn btn-default add-to-cart"" title=""Beli""><i class=""fa fa-shopping-cart""></i>Beli</a>
+           </div>
+          </div>
         </div>
-       </div>       
-       
-      </div>
-     </div><!--/category-tab-->",1/23/2017,html,sepatu-pantofel-wanita,garucci,sepatu-pantofel-wanita,garucci,"Sepatu Pantofel Wanita Bahan Synth, Ukuran 36-40, Warna Black & Brown",https://images.lipatan.com/katalog-garucci-2016/foto-satuan/2-sh-4201.jpg,Sepatu Formal Wanita - SH 4201,Rp 175.900,SH 4201,Baru
-Jual Sepatu Formal Wanita - SH 4211 Murah,sepatu-formal-wanita-sh-4211,"
-     <div class=""product-details""><!--product-details-->
-      <div class=""col-sm-5"">
-       <div class=""view-product"">
-        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
-        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
        </div>
       </div>
+      
+      
 
-      <div class=""col-sm-7"">
-       <div class=""product-information""><!--/product-information-->
-        <h1>{{ page.product }}</h1>
-        <p>SKU: {{ page.sku }}</p>
-        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
-        <span>
-         <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
-          </a>
-         </label>
-        </span>
-        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
-        <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
-       </div><!--/product-information-->
-      </div>
-     </div><!--/product-details-->
-     
-     <div class=""category-tab shop-details-tab""><!--category-tab-->
-      <div class=""col-sm-12"">
-       <ul class=""nav nav-tabs"">
-        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
-       </ul>
-      </div>
-      <div class=""tab-content"">
-       <div class=""tab-pane fade active in"" id=""keterangan"" >
-        <div class=""col-sm-12"">
-         <h2>{{ page.product }}</h2>         
-         <ol class=""breadcrumb"">
-            <li class=""active"">Tag :</li>
-            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
-            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
-         </ol>         
-         <p>Tampil trendy dengan Sepatu Pantofel Wanita merek Garucci. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sepatu Formal Wanita - SH 4211 dengan bahan Synth ini dijamin awet.<br/>Kode : SH 4211<br/>Warna : Black<br/>Bahan : Synth<br/>Ukuran : 36-40<br/>Berat : 1 kg<br>
-         </p>
-
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
-         ID Penjual : BDRS<br>
-         Lokasi : Bandung</p>
-
-         {% include share.html %}
-
-         {% include disqus.html %}
-         
+      
+      <div class=""col-sm-4"">
+       <div class=""product-image-wrapper"">
+        <div class=""single-products"">
+          <div class=""productinfo text-center"">
+           <img src=""{{ https://images.lipatan.com/katalog-trekking-2016/foto-satuan/36-arj-025.jpg }}"" alt=""{{ Tas Gunung Carrier - ARJ 025 }}"" title=""{{ Tas Gunung Carrier - ARJ 025 }}"" />
+           <p>{{ Rp 326.900 }}</p>
+           <h2>{{ Tas Gunung Carrier - ARJ 025 }}</h2>
+           <a href=""{{ https://www.lipatan.com/trekking/tas-gunung-carrier-arj-025 }}"" class=""btn btn-default add-to-cart"" title=""Beli""><i class=""fa fa-shopping-cart""></i>Beli</a>
+          </div>
+          <div class=""product-overlay"">
+           <div class=""overlay-content"">
+            <p>{{ Rp 326.900 }}</p>
+            <h2>{{ Tas Gunung Carrier - ARJ 025 }}</h2>
+            <a href=""{{ https://www.lipatan.com/trekking/tas-gunung-carrier-arj-025 }}"" class=""btn btn-default add-to-cart"" title=""Beli""><i class=""fa fa-shopping-cart""></i>Beli</a>
+           </div>
+          </div>
         </div>
-       </div>       
-       
+       </div>
       </div>
-     </div><!--/category-tab-->",1/23/2017,html,sepatu-pantofel-wanita,garucci,sepatu-pantofel-wanita,garucci,"Sepatu Pantofel Wanita Bahan Synth, Ukuran 36-40, Warna Black",https://images.lipatan.com/katalog-garucci-2016/foto-satuan/3-sh-4211.jpg,Sepatu Formal Wanita - SH 4211,Rp 151.900,SH 4211,Baru
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
+      
+      
+
+      
+      <div class=""col-sm-4"">
+       <div class=""product-image-wrapper"">
+        <div class=""single-products"">
+          <div class=""productinfo text-center"">
+           <img src=""{{ https://images.lipatan.com/katalog-java-seven-2017/foto-produk-satuan/180-aly-313.jpg }}"" alt=""{{ Sarimbit / Baju Koko Pria - ALY 313 }}"" title=""{{ Sarimbit / Baju Koko Pria - ALY 313 }}"" />
+           <p>{{ Rp 175.900 }}</p>
+           <h2>{{ Sarimbit / Baju Koko Pria - ALY 313 }}</h2>
+           <a href=""{{ https://www.lipatan.com/java-seven/sarimbit-baju-koko-pria-aly-313 }}"" class=""btn btn-default add-to-cart"" title=""Beli""><i class=""fa fa-shopping-cart""></i>Beli</a>
+          </div>
+          <div class=""product-overlay"">
+           <div class=""overlay-content"">
+            <p>{{ Rp 175.900 }}</p>
+            <h2>{{ Sarimbit / Baju Koko Pria - ALY 313 }}</h2>
+            <a href=""{{ https://www.lipatan.com/java-seven/sarimbit-baju-koko-pria-aly-313 }}"" class=""btn btn-default add-to-cart"" title=""Beli""><i class=""fa fa-shopping-cart""></i>Beli</a>
+           </div>
+          </div>
+        </div>
+       </div>
+      </div>
+      
+      
+
+      
+      <div class=""col-sm-4"">
+       <div class=""product-image-wrapper"">
+        <div class=""single-products"">
+          <div class=""productinfo text-center"">
+           <img src=""{{ https://images.lipatan.com/katalog-java-seven-2017/foto-produk-satuan/676-bri-105.jpg }}"" alt=""{{ Sepatu Anak Perempuan - BRI 105 }}"" title=""{{ Sepatu Anak Perempuan - BRI 105 }}"" />
+           <p>{{ Rp 139.900 }}</p>
+           <h2>{{ Sepatu Anak Perempuan - BRI 105 }}</h2>
+           <a href=""{{ https://www.lipatan.com/java-seven/sepatu-anak-perempuan-bri-105 }}"" class=""btn btn-default add-to-cart"" title=""Beli""><i class=""fa fa-shopping-cart""></i>Beli</a>
+          </div>
+          <div class=""product-overlay"">
+           <div class=""overlay-content"">
+            <p>{{ Rp 139.900 }}</p>
+            <h2>{{ Sepatu Anak Perempuan - BRI 105 }}</h2>
+            <a href=""{{ https://www.lipatan.com/java-seven/sepatu-anak-perempuan-bri-105 }}"" class=""btn btn-default add-to-cart"" title=""Beli""><i class=""fa fa-shopping-cart""></i>Beli</a>
+           </div>
+          </div>
+        </div>
+       </div>
+      </div>
+      
+      
+
+      
+      <div class=""col-sm-4"">
+       <div class=""product-image-wrapper"">
+        <div class=""single-products"">
+          <div class=""productinfo text-center"">
+           <img src=""{{ https://images.lipatan.com/katalog-inficlo-2017/foto-produk-satuan/369-sfl-519.jpg }}"" alt=""{{ Clutch / Dompet Wanita - SFL 519 }}"" title=""{{ Clutch / Dompet Wanita - SFL 519 }}"" />
+           <p>{{ Rp 88.900 }}</p>
+           <h2>{{ Clutch / Dompet Wanita - SFL 519 }}</h2>
+           <a href=""{{ https://www.lipatan.com/inficlo/clutch-dompet-wanita-sfl-519 }}"" class=""btn btn-default add-to-cart"" title=""Beli""><i class=""fa fa-shopping-cart""></i>Beli</a>
+          </div>
+          <div class=""product-overlay"">
+           <div class=""overlay-content"">
+            <p>{{ Rp 88.900 }}</p>
+            <h2>{{ Clutch / Dompet Wanita - SFL 519 }}</h2>
+            <a href=""{{ https://www.lipatan.com/inficlo/clutch-dompet-wanita-sfl-519 }}"" class=""btn btn-default add-to-cart"" title=""Beli""><i class=""fa fa-shopping-cart""></i>Beli</a>
+           </div>
+          </div>
+        </div>
+       </div>
+      </div>
+      
+      
+
+      
+      <div class=""col-sm-4"">
+       <div class=""product-image-wrapper"">
+        <div class=""single-products"">
+          <div class=""productinfo text-center"">
+           <img src=""{{ https://images.lipatan.com/katalog-cbr-six-2017/foto-produk-satuan/192-alc-822.jpg }}"" alt=""{{ Wangki / Kaos Pria - ALC 822 }}"" title=""{{ Wangki / Kaos Pria - ALC 822 }}"" />
+           <p>{{ Rp 125.900 }}</p>
+           <h2>{{ Wangki / Kaos Pria - ALC 822 }}</h2>
+           <a href=""{{ https://www.lipatan.com/cbr-six/wangki-kaos-pria-alc-822 }}"" class=""btn btn-default add-to-cart"" title=""Beli""><i class=""fa fa-shopping-cart""></i>Beli</a>
+          </div>
+          <div class=""product-overlay"">
+           <div class=""overlay-content"">
+            <p>{{ Rp 125.900 }}</p>
+            <h2>{{ Wangki / Kaos Pria - ALC 822 }}</h2>
+            <a href=""{{ https://www.lipatan.com/cbr-six/wangki-kaos-pria-alc-822 }}"" class=""btn btn-default add-to-cart"" title=""Beli""><i class=""fa fa-shopping-cart""></i>Beli</a>
+           </div>
+          </div>
+        </div>
+       </div>
+      </div>
+      
+      
+
+      
+      <div class=""col-sm-4"">
+       <div class=""product-image-wrapper"">
+        <div class=""single-products"">
+          <div class=""productinfo text-center"">
+           <img src=""{{ https://images.lipatan.com/katalog-inficlo-2017/foto-produk-satuan/11-srs-945.jpg }}"" alt=""{{ Dress / Atasan Wanita Motif Batik Trendy - SRS 945 }}"" title=""{{ Dress / Atasan Wanita Motif Batik Trendy - SRS 945 }}"" />
+           <p>{{ Rp 156.900 }}</p>
+           <h2>{{ Dress / Atasan Wanita Motif Batik Trendy - SRS 945 }}</h2>
+           <a href=""{{ https://www.lipatan.com/inficlo/dress-atasan-wanita-motif-batik-trendy-srs-945 }}"" class=""btn btn-default add-to-cart"" title=""Beli""><i class=""fa fa-shopping-cart""></i>Beli</a>
+          </div>
+          <div class=""product-overlay"">
+           <div class=""overlay-content"">
+            <p>{{ Rp 156.900 }}</p>
+            <h2>{{ Dress / Atasan Wanita Motif Batik Trendy - SRS 945 }}</h2>
+            <a href=""{{ https://www.lipatan.com/inficlo/dress-atasan-wanita-motif-batik-trendy-srs-945 }}"" class=""btn btn-default add-to-cart"" title=""Beli""><i class=""fa fa-shopping-cart""></i>Beli</a>
+           </div>
+          </div>
+        </div>
+       </div>
+      </div>
+      
+      
+
+      
+      <div class=""col-sm-4"">
+       <div class=""product-image-wrapper"">
+        <div class=""single-products"">
+          <div class=""productinfo text-center"">
+           <img src=""{{ https://images.lipatan.com/katalog-garsel-fashion-2016/foto-produk-satuan/391-fhj-002.jpg }}"" alt=""{{ Baju Koko / Muslim Pria  - FHJ 002 }}"" title=""{{ Baju Koko / Muslim Pria  - FHJ 002 }}"" />
+           <p>{{ Rp 155.900 }}</p>
+           <h2>{{ Baju Koko / Muslim Pria  - FHJ 002 }}</h2>
+           <a href=""{{ https://www.lipatan.com/garsel-fashion/baju-koko-muslim-pria-fhj-002 }}"" class=""btn btn-default add-to-cart"" title=""Beli""><i class=""fa fa-shopping-cart""></i>Beli</a>
+          </div>
+          <div class=""product-overlay"">
+           <div class=""overlay-content"">
+            <p>{{ Rp 155.900 }}</p>
+            <h2>{{ Baju Koko / Muslim Pria  - FHJ 002 }}</h2>
+            <a href=""{{ https://www.lipatan.com/garsel-fashion/baju-koko-muslim-pria-fhj-002 }}"" class=""btn btn-default add-to-cart"" title=""Beli""><i class=""fa fa-shopping-cart""></i>Beli</a>
+           </div>
+          </div>
+        </div>
+       </div>
+      </div>
+      
+      
+
+      
+      <div class=""col-sm-4"">
+       <div class=""product-image-wrapper"">
+        <div class=""single-products"">
+          <div class=""productinfo text-center"">
+           <img src=""{{ https://images.lipatan.com/katalog-catenzo-2017/foto-produk-satuan/654-be-017.jpg }}"" alt=""{{ Celana Denim Jeans Pria - BE 017 }}"" title=""{{ Celana Denim Jeans Pria - BE 017 }}"" />
+           <p>{{ Rp 170.900 }}</p>
+           <h2>{{ Celana Denim Jeans Pria - BE 017 }}</h2>
+           <a href=""{{ https://www.lipatan.com/catenzo/celana-denim-jeans-pria-be-017 }}"" class=""btn btn-default add-to-cart"" title=""Beli""><i class=""fa fa-shopping-cart""></i>Beli</a>
+          </div>
+          <div class=""product-overlay"">
+           <div class=""overlay-content"">
+            <p>{{ Rp 170.900 }}</p>
+            <h2>{{ Celana Denim Jeans Pria - BE 017 }}</h2>
+            <a href=""{{ https://www.lipatan.com/catenzo/celana-denim-jeans-pria-be-017 }}"" class=""btn btn-default add-to-cart"" title=""Beli""><i class=""fa fa-shopping-cart""></i>Beli</a>
+           </div>
+          </div>
+        </div>
+       </div>
+      </div>
+      
+      
+
+      
+      <div class=""col-sm-4"">
+       <div class=""product-image-wrapper"">
+        <div class=""single-products"">
+          <div class=""productinfo text-center"">
+           <img src=""{{ https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/110-rrd-039.jpg }}"" alt=""{{ Jaket Denim / Jeans Pria - RRD 039 }}"" title=""{{ Jaket Denim / Jeans Pria - RRD 039 }}"" />
+           <p>{{ Rp 209.900 }}</p>
+           <h2>{{ Jaket Denim / Jeans Pria - RRD 039 }}</h2>
+           <a href=""{{ https://www.lipatan.com/raindoz/jaket-denim-jeans-pria-rrd-039 }}"" class=""btn btn-default add-to-cart"" title=""Beli""><i class=""fa fa-shopping-cart""></i>Beli</a>
+          </div>
+          <div class=""product-overlay"">
+           <div class=""overlay-content"">
+            <p>{{ Rp 209.900 }}</p>
+            <h2>{{ Jaket Denim / Jeans Pria - RRD 039 }}</h2>
+            <a href=""{{ https://www.lipatan.com/raindoz/jaket-denim-jeans-pria-rrd-039 }}"" class=""btn btn-default add-to-cart"" title=""Beli""><i class=""fa fa-shopping-cart""></i>Beli</a>
+           </div>
+          </div>
+        </div>
+       </div>
+      </div>
+      
+      
+
+      
+      <div class=""col-sm-4"">
+       <div class=""product-image-wrapper"">
+        <div class=""single-products"">
+          <div class=""productinfo text-center"">
+           <img src=""{{ https://images.lipatan.com/katalog-cbr-six-2017/foto-produk-satuan/714-ikc-383.jpg }}"" alt=""{{ Jaket / Sweater / Hoodies Anak Laki-Laki - IKC 383 }}"" title=""{{ Jaket / Sweater / Hoodies Anak Laki-Laki - IKC 383 }}"" />
+           <p>{{ Rp 110.900 }}</p>
+           <h2>{{ Jaket / Sweater / Hoodies Anak Laki-Laki - IKC 383 }}</h2>
+           <a href=""{{ https://www.lipatan.com/cbr-six/jaket-sweater-hoodies-anak-laki-laki-ikc-383 }}"" class=""btn btn-default add-to-cart"" title=""Beli""><i class=""fa fa-shopping-cart""></i>Beli</a>
+          </div>
+          <div class=""product-overlay"">
+           <div class=""overlay-content"">
+            <p>{{ Rp 110.900 }}</p>
+            <h2>{{ Jaket / Sweater / Hoodies Anak Laki-Laki - IKC 383 }}</h2>
+            <a href=""{{ https://www.lipatan.com/cbr-six/jaket-sweater-hoodies-anak-laki-laki-ikc-383 }}"" class=""btn btn-default add-to-cart"" title=""Beli""><i class=""fa fa-shopping-cart""></i>Beli</a>
+           </div>
+          </div>
+        </div>
+       </div>
+      </div>
+      
+      
+
+      
+      <div class=""col-sm-4"">
+       <div class=""product-image-wrapper"">
+        <div class=""single-products"">
+          <div class=""productinfo text-center"">
+           <img src=""{{ https://images.lipatan.com/katalog-java-seven-2017/foto-produk-satuan/231-isl-012.jpg }}"" alt=""{{ Sweater / Jaket Pria - ISL 012 }}"" title=""{{ Sweater / Jaket Pria - ISL 012 }}"" />
+           <p>{{ Rp 185.900 }}</p>
+           <h2>{{ Sweater / Jaket Pria - ISL 012 }}</h2>
+           <a href=""{{ https://www.lipatan.com/java-seven/sweater-jaket-pria-isl-012 }}"" class=""btn btn-default add-to-cart"" title=""Beli""><i class=""fa fa-shopping-cart""></i>Beli</a>
+          </div>
+          <div class=""product-overlay"">
+           <div class=""overlay-content"">
+            <p>{{ Rp 185.900 }}</p>
+            <h2>{{ Sweater / Jaket Pria - ISL 012 }}</h2>
+            <a href=""{{ https://www.lipatan.com/java-seven/sweater-jaket-pria-isl-012 }}"" class=""btn btn-default add-to-cart"" title=""Beli""><i class=""fa fa-shopping-cart""></i>Beli</a>
+           </div>
+          </div>
+        </div>
+       </div>
+      </div>
+      
+      
+
+      
+      <div class=""col-sm-4"">
+       <div class=""product-image-wrapper"">
+        <div class=""single-products"">
+          <div class=""productinfo text-center"">
+           <img src=""{{ https://images.lipatan.com/katalog-blackkelly-2017/foto-produk-satuan/513-lrq-038.jpg }}"" alt=""{{ Dompet Pria - LRQ 038 }}"" title=""{{ Dompet Pria - LRQ 038 }}"" />
+           <p>{{ Rp 75.900 }}</p>
+           <h2>{{ Dompet Pria - LRQ 038 }}</h2>
+           <a href=""{{ https://www.lipatan.com/blackkelly/dompet-pria-lrq-038 }}"" class=""btn btn-default add-to-cart"" title=""Beli""><i class=""fa fa-shopping-cart""></i>Beli</a>
+          </div>
+          <div class=""product-overlay"">
+           <div class=""overlay-content"">
+            <p>{{ Rp 75.900 }}</p>
+            <h2>{{ Dompet Pria - LRQ 038 }}</h2>
+            <a href=""{{ https://www.lipatan.com/blackkelly/dompet-pria-lrq-038 }}"" class=""btn btn-default add-to-cart"" title=""Beli""><i class=""fa fa-shopping-cart""></i>Beli</a>
+           </div>
+          </div>
+        </div>
+       </div>
+      </div>
+      
+      
+
+      
+      <div class=""col-sm-4"">
+       <div class=""product-image-wrapper"">
+        <div class=""single-products"">
+          <div class=""productinfo text-center"">
+           <img src=""{{ https://images.lipatan.com/katalog-catenzo-junior-2017/foto-produk-satuan/308-cdg-108.jpg }}"" alt=""{{ Dress Anak Perempuan - CDG 108 }}"" title=""{{ Dress Anak Perempuan - CDG 108 }}"" />
+           <p>{{ Rp 104.900 }}</p>
+           <h2>{{ Dress Anak Perempuan - CDG 108 }}</h2>
+           <a href=""{{ https://www.lipatan.com/catenzo-junior/dress-anak-perempuan-cdg-108 }}"" class=""btn btn-default add-to-cart"" title=""Beli""><i class=""fa fa-shopping-cart""></i>Beli</a>
+          </div>
+          <div class=""product-overlay"">
+           <div class=""overlay-content"">
+            <p>{{ Rp 104.900 }}</p>
+            <h2>{{ Dress Anak Perempuan - CDG 108 }}</h2>
+            <a href=""{{ https://www.lipatan.com/catenzo-junior/dress-anak-perempuan-cdg-108 }}"" class=""btn btn-default add-to-cart"" title=""Beli""><i class=""fa fa-shopping-cart""></i>Beli</a>
+           </div>
+          </div>
+        </div>
+       </div>
+      </div>
+      
+      
+
+      
+      <div class=""col-sm-4"">
+       <div class=""product-image-wrapper"">
+        <div class=""single-products"">
+          <div class=""productinfo text-center"">
+           <img src=""{{ https://images.lipatan.com/katalog-catenzo-junior-2017/foto-produk-satuan/300-cnu-011.jpg }}"" alt=""{{ Celana Jeans Anak Laki-Laki - CNU 011 }}"" title=""{{ Celana Jeans Anak Laki-Laki - CNU 011 }}"" />
+           <p>{{ Rp 163.900 }}</p>
+           <h2>{{ Celana Jeans Anak Laki-Laki - CNU 011 }}</h2>
+           <a href=""{{ https://www.lipatan.com/catenzo-junior/celana-jeans-anak-laki-laki-cnu-011 }}"" class=""btn btn-default add-to-cart"" title=""Beli""><i class=""fa fa-shopping-cart""></i>Beli</a>
+          </div>
+          <div class=""product-overlay"">
+           <div class=""overlay-content"">
+            <p>{{ Rp 163.900 }}</p>
+            <h2>{{ Celana Jeans Anak Laki-Laki - CNU 011 }}</h2>
+            <a href=""{{ https://www.lipatan.com/catenzo-junior/celana-jeans-anak-laki-laki-cnu-011 }}"" class=""btn btn-default add-to-cart"" title=""Beli""><i class=""fa fa-shopping-cart""></i>Beli</a>
+           </div>
+          </div>
+        </div>
+       </div>
+      </div>
+      
+      
+
+      
+      <div class=""col-sm-4"">
+       <div class=""product-image-wrapper"">
+        <div class=""single-products"">
+          <div class=""productinfo text-center"">
+           <img src=""{{ https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/176-rgs-038.jpg }}"" alt=""{{ Pakaian Muslim / Baju Koko Pria / Muslim Sarimbit - RGS 038 }}"" title=""{{ Pakaian Muslim / Baju Koko Pria / Muslim Sarimbit - RGS 038 }}"" />
+           <p>{{ Rp 160.900 }}</p>
+           <h2>{{ Pakaian Muslim / Baju Koko Pria / Muslim Sarimbit - RGS 038 }}</h2>
+           <a href=""{{ https://www.lipatan.com/raindoz/pakaian-muslim-baju-koko-pria-muslim-sarimbit-rgs-038 }}"" class=""btn btn-default add-to-cart"" title=""Beli""><i class=""fa fa-shopping-cart""></i>Beli</a>
+          </div>
+          <div class=""product-overlay"">
+           <div class=""overlay-content"">
+            <p>{{ Rp 160.900 }}</p>
+            <h2>{{ Pakaian Muslim / Baju Koko Pria / Muslim Sarimbit - RGS 038 }}</h2>
+            <a href=""{{ https://www.lipatan.com/raindoz/pakaian-muslim-baju-koko-pria-muslim-sarimbit-rgs-038 }}"" class=""btn btn-default add-to-cart"" title=""Beli""><i class=""fa fa-shopping-cart""></i>Beli</a>
+           </div>
+          </div>
+        </div>
+       </div>
+      </div>
+      
+      
+
+      
+      <div class=""col-sm-4"">
+       <div class=""product-image-wrapper"">
+        <div class=""single-products"">
+          <div class=""productinfo text-center"">
+           <img src=""{{ https://images.lipatan.com/katalog-catenzo-2017/foto-produk-satuan/424-rz-101.jpg }}"" alt=""{{ Tas Selempang / Hand Bag Wanita - RZ 101 }}"" title=""{{ Tas Selempang / Hand Bag Wanita - RZ 101 }}"" />
+           <p>{{ Rp 134.900 }}</p>
+           <h2>{{ Tas Selempang / Hand Bag Wanita - RZ 101 }}</h2>
+           <a href=""{{ https://www.lipatan.com/catenzo/tas-selempang-hand-bag-wanita-rz-101 }}"" class=""btn btn-default add-to-cart"" title=""Beli""><i class=""fa fa-shopping-cart""></i>Beli</a>
+          </div>
+          <div class=""product-overlay"">
+           <div class=""overlay-content"">
+            <p>{{ Rp 134.900 }}</p>
+            <h2>{{ Tas Selempang / Hand Bag Wanita - RZ 101 }}</h2>
+            <a href=""{{ https://www.lipatan.com/catenzo/tas-selempang-hand-bag-wanita-rz-101 }}"" class=""btn btn-default add-to-cart"" title=""Beli""><i class=""fa fa-shopping-cart""></i>Beli</a>
+           </div>
+          </div>
+        </div>
+       </div>
+      </div>
+      
+      
+
+      
+      <div class=""col-sm-4"">
+       <div class=""product-image-wrapper"">
+        <div class=""single-products"">
+          <div class=""productinfo text-center"">
+           <img src=""{{ https://images.lipatan.com/katalog-catenzo-2017/foto-produk-satuan/611-pl-444.jpg }}"" alt=""{{ Jaket / Sweater Hoodie Wanita - PL 444 }}"" title=""{{ Jaket / Sweater Hoodie Wanita - PL 444 }}"" />
+           <p>{{ Rp 179.900 }}</p>
+           <h2>{{ Jaket / Sweater Hoodie Wanita - PL 444 }}</h2>
+           <a href=""{{ https://www.lipatan.com/catenzo/jaket-sweater-hoodie-wanita-pl-444 }}"" class=""btn btn-default add-to-cart"" title=""Beli""><i class=""fa fa-shopping-cart""></i>Beli</a>
+          </div>
+          <div class=""product-overlay"">
+           <div class=""overlay-content"">
+            <p>{{ Rp 179.900 }}</p>
+            <h2>{{ Jaket / Sweater Hoodie Wanita - PL 444 }}</h2>
+            <a href=""{{ https://www.lipatan.com/catenzo/jaket-sweater-hoodie-wanita-pl-444 }}"" class=""btn btn-default add-to-cart"" title=""Beli""><i class=""fa fa-shopping-cart""></i>Beli</a>
+           </div>
+          </div>
+        </div>
+       </div>
+      </div>
+      
+      
+
+      
+      <div class=""col-sm-4"">
+       <div class=""product-image-wrapper"">
+        <div class=""single-products"">
+          <div class=""productinfo text-center"">
+           <img src=""{{ https://images.lipatan.com/katalog-inficlo-2017/foto-produk-satuan/146-spn-942.jpg }}"" alt=""{{ Celana Jeans Wanita - SPN 942 }}"" title=""{{ Celana Jeans Wanita - SPN 942 }}"" />
+           <p>{{ Rp 170.900 }}</p>
+           <h2>{{ Celana Jeans Wanita - SPN 942 }}</h2>
+           <a href=""{{ https://www.lipatan.com/inficlo/celana-jeans-wanita-spn-942 }}"" class=""btn btn-default add-to-cart"" title=""Beli""><i class=""fa fa-shopping-cart""></i>Beli</a>
+          </div>
+          <div class=""product-overlay"">
+           <div class=""overlay-content"">
+            <p>{{ Rp 170.900 }}</p>
+            <h2>{{ Celana Jeans Wanita - SPN 942 }}</h2>
+            <a href=""{{ https://www.lipatan.com/inficlo/celana-jeans-wanita-spn-942 }}"" class=""btn btn-default add-to-cart"" title=""Beli""><i class=""fa fa-shopping-cart""></i>Beli</a>
+           </div>
+          </div>
+        </div>
+       </div>
+      </div>
+      
+      
+
+      
+      <div class=""col-sm-4"">
+       <div class=""product-image-wrapper"">
+        <div class=""single-products"">
+          <div class=""productinfo text-center"">
+           <img src=""{{ https://images.lipatan.com/katalog-catenzo-2017/foto-produk-satuan/327-cp-035.jpg }}"" alt=""{{ Sandal Wanita - CP 035 }}"" title=""{{ Sandal Wanita - CP 035 }}"" />
+           <p>{{ Rp 146.900 }}</p>
+           <h2>{{ Sandal Wanita - CP 035 }}</h2>
+           <a href=""{{ https://www.lipatan.com/catenzo/sandal-wanita-cp-035 }}"" class=""btn btn-default add-to-cart"" title=""Beli""><i class=""fa fa-shopping-cart""></i>Beli</a>
+          </div>
+          <div class=""product-overlay"">
+           <div class=""overlay-content"">
+            <p>{{ Rp 146.900 }}</p>
+            <h2>{{ Sandal Wanita - CP 035 }}</h2>
+            <a href=""{{ https://www.lipatan.com/catenzo/sandal-wanita-cp-035 }}"" class=""btn btn-default add-to-cart"" title=""Beli""><i class=""fa fa-shopping-cart""></i>Beli</a>
+           </div>
+          </div>
+        </div>
+       </div>
+      </div>
+      
+      
+
+      
+      <div class=""col-sm-4"">
+       <div class=""product-image-wrapper"">
+        <div class=""single-products"">
+          <div class=""productinfo text-center"">
+           <img src=""{{ https://images.lipatan.com/katalog-garucci-2016/foto-satuan/452-sh-1216.jpg }}"" alt=""{{ Sepatu Sneakers Pria - SH 1216 }}"" title=""{{ Sepatu Sneakers Pria - SH 1216 }}"" />
+           <p>{{ Rp 157.900 }}</p>
+           <h2>{{ Sepatu Sneakers Pria - SH 1216 }}</h2>
+           <a href=""{{ https://www.lipatan.com/garucci/sepatu-sneakers-pria-sh-1216 }}"" class=""btn btn-default add-to-cart"" title=""Beli""><i class=""fa fa-shopping-cart""></i>Beli</a>
+          </div>
+          <div class=""product-overlay"">
+           <div class=""overlay-content"">
+            <p>{{ Rp 157.900 }}</p>
+            <h2>{{ Sepatu Sneakers Pria - SH 1216 }}</h2>
+            <a href=""{{ https://www.lipatan.com/garucci/sepatu-sneakers-pria-sh-1216 }}"" class=""btn btn-default add-to-cart"" title=""Beli""><i class=""fa fa-shopping-cart""></i>Beli</a>
+           </div>
+          </div>
+        </div>
+       </div>
+      </div>
+      
+      
+
+      
+      <div class=""col-sm-4"">
+       <div class=""product-image-wrapper"">
+        <div class=""single-products"">
+          <div class=""productinfo text-center"">
+           <img src=""{{ https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/38-ryi-089.jpg }}"" alt=""{{ Track Jaket / Sweater Wanita - RYI 089 }}"" title=""{{ Track Jaket / Sweater Wanita - RYI 089 }}"" />
+           <p>{{ Rp 139.900 }}</p>
+           <h2>{{ Track Jaket / Sweater Wanita - RYI 089 }}</h2>
+           <a href=""{{ https://www.lipatan.com/raindoz/track-jaket-sweater-wanita-ryi-089 }}"" class=""btn btn-default add-to-cart"" title=""Beli""><i class=""fa fa-shopping-cart""></i>Beli</a>
+          </div>
+          <div class=""product-overlay"">
+           <div class=""overlay-content"">
+            <p>{{ Rp 139.900 }}</p>
+            <h2>{{ Track Jaket / Sweater Wanita - RYI 089 }}</h2>
+            <a href=""{{ https://www.lipatan.com/raindoz/track-jaket-sweater-wanita-ryi-089 }}"" class=""btn btn-default add-to-cart"" title=""Beli""><i class=""fa fa-shopping-cart""></i>Beli</a>
+           </div>
+          </div>
+        </div>
+       </div>
+      </div>
+      
+      
+",2017-01-23,html,sandal-high-heels-wanita,garucci,sandal-high-heels-wanita,garucci,"Sandal High Heels Wanita Bahan Synth, Ukuran 36-40, Warna Cream Comb",https://images.lipatan.com/katalog-garucci-2016/foto-satuan/1-sh-5165.jpg,High Heels Wanita - SH 5165,Rp 174.900,SH 5165,Baru
