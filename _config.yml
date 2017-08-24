@@ -8,8 +8,9 @@
 # Site settings
 title: LIPATAN
 description: > # this means to ignore newlines until "baseurl:"
-  Toko online murah dan terpercaya.
-  Toko online kebutuhan sehari-hari Anda.
+  Peluang usaha dropship / reseller fashion Bandung.
+  Grosir sepatu, jaket, baju murah.
+  Murahnya berlipat-lipat.
 url: "https://www.lipatan.com" # the base hostname & protocol for your site
 logo-square: img/lipatan-square.png
 logo-rectangle: img/lipatan-rectangle.png
