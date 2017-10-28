@@ -29,11 +29,11 @@ description: Halaman konfirmasi pembayaran. Jika Anda sudah melakukan pembayaran
 								                <input type="text" name="name" class="form-control" required="required" placeholder="Nama Pemilik Rekening">
 								            </div>
 								            <div class="form-group col-md-6">
-								                <input type="text" name="nominal" class="form-control" required="required" placeholder="Jumlah Bayar">
+								                <input type="number" name="nominal" class="form-control" required="required" placeholder="Jumlah Bayar">
 								            </div>
 
 								            <div class="form-group col-md-6">
-								                <input type="text" name="tanggal" class="form-control" required="required" placeholder="Tanggal Bayar">
+								                <input type="date" name="tanggal" class="form-control" required="required" placeholder="Tanggal Bayar">
 								            </div>
 								            <div class="form-group col-md-6">
 								                <input type="text" name="cara" class="form-control" required="required" placeholder="Cara Pembayaran (Transfer Bank/ATM, Internet/Mobile/SMS Banking)">
@@ -51,7 +51,7 @@ description: Halaman konfirmasi pembayaran. Jika Anda sudah melakukan pembayaran
 								            </div>
 
 								            <div class="form-group col-md-12">
-								                <textarea name="message" id="message" required="required" class="form-control" rows="8" placeholder="Sebutkan produk atau jasa yang Anda beli"></textarea>
+								                <textarea name="message" id="message" required="required" class="form-control" rows="8" placeholder="Sebutkan produk dan nama pembeli"></textarea>
 								            </div>
 
 								            <input type="hidden" name="_subject" value="Konfirmasi Pembayaran" />			            
