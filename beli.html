@@ -35,8 +35,8 @@ description: Silakan isi form pembeian dibawah ini untuk proses pemesanan dan pe
 								            <div class="form-group col-md-6">
 								                <input type="text" name="alamat" class="form-control" required="required" placeholder="Nama Jalan, RT, RW, Nomor rumah">
 								            </div>
-								            <div class="form-group col-md-6 ui-widget">
-								                <input id="tags" type="text" name="provinsi" class="form-control" required="required" placeholder="Provinsi. Contoh : Kalimantan Barat">
+								            <div class="form-group col-md-6">
+								                <input id="propinsi" type="text" name="provinsi" class="form-control" required="required" placeholder="Provinsi. Contoh : Kalimantan Barat">
 								            </div>
 
 								            <div class="form-group col-md-6">
@@ -96,32 +96,44 @@ description: Silakan isi form pembeian dibawah ini untuk proses pemesanan dan pe
 					<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
   <script>
   $( function() {
-    var availableTags = [
-      "ActionScript",
-      "AppleScript",
-      "Asp",
-      "BASIC",
-      "C",
-      "C++",
-      "Clojure",
-      "COBOL",
-      "ColdFusion",
-      "Erlang",
-      "Fortran",
-      "Groovy",
-      "Haskell",
-      "Java",
-      "JavaScript",
-      "Lisp",
-      "Perl",
-      "PHP",
-      "Python",
-      "Ruby",
-      "Scala",
-      "Scheme"
+    var availablePropinsi = [
+      "BALI",
+"BANGKA BELITUNG",
+"BANTEN",
+"BENGKULU",
+"DI YOGYAKARTA",
+"DKI JAKARTA",
+"GORONTALO",
+"JAMBI",
+"JAWA BARAT",
+"JAWA TENGAH",
+"JAWA TIMUR",
+"KALIMANTAN BARAT",
+"KALIMANTAN SELATAN",
+"KALIMANTAN TENGAH",
+"KALIMANTAN TIMUR",
+"KALIMANTAN UTARA",
+"KEPULAUAN RIAU",
+"LAMPUNG",
+"MALUKU",
+"MALUKU UTARA",
+"NANGGROE ACEH DARUSSALAM (NAD)",
+"NUSA TENGGARA BARAT (NTB)",
+"NUSA TENGGARA TIMUR (NTT)",
+"PAPUA",
+"PAPUA BARAT",
+"RIAU",
+"SULAWESI BARAT",
+"SULAWESI SELATAN",
+"SULAWESI TENGAH",
+"SULAWESI TENGGARA",
+"SULAWESI UTARA",
+"SUMATERA BARAT",
+"SUMATERA SELATAN",
+"SUMATERA UTARA"
     ];
-    $( "#tags" ).autocomplete({
-      source: availableTags
+    $( "#propinsi" ).autocomplete({
+      source: availablePropinsi
     });
   } );
   </script>
