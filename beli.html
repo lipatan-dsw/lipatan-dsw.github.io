@@ -36,11 +36,11 @@ description: Silakan isi form pembeian dibawah ini untuk proses pemesanan dan pe
 								                <input type="text" name="alamat" class="form-control" required="required" placeholder="Nama Jalan, RT, RW, Nomor rumah">
 								            </div>
 								            <div class="form-group col-md-6 ui-widget">
-								                <input id="propinsi" type="text" name="provinsi" class="form-control" required="required" placeholder="Provinsi. Contoh : Kalimantan Barat">
+								                <input id="propinsi" type="text" name="provinsi" class="form-control" required="required" placeholder="Provinsi (Gunakan spasi untuk memunculkan data)">
 								            </div>
 
 								            <div class="form-group col-md-6 ui-widget">
-								                <input id="kabkota" type="text" name="kota-kabupaten" class="form-control" required="required" placeholder="Kota/Kabupaten. Contoh : Kota Pontianak">
+								                <input id="kabkota" type="text" name="kota-kabupaten" class="form-control" required="required" placeholder="Kota/Kabupaten (Gunakan spasi untuk memunculkan data)">
 								            </div>
 								            <div class="form-group col-md-6">
 								                <input type="text" name="kecamatan" class="form-control" required="required" placeholder="Kecamatan. Contoh : Pontianak Barat">
@@ -54,7 +54,7 @@ description: Silakan isi form pembeian dibawah ini untuk proses pemesanan dan pe
 								            </div>
 
 								            <div class="form-group col-md-6">
-								                <input type="text" name="kurir" class="form-control" required="required" placeholder="Kurir">
+								                <input id="kurir" type="text" name="kurir" class="form-control" required="required" placeholder="Kurir (Gunakan spasi untuk memunculkan data)">
 								            </div>
 								            <div class="form-group col-md-6">
 								                <input type="email" name="email" class="form-control" required="required" placeholder="Email">
@@ -20128,6 +20128,19 @@ var widgetsTooltip = $.ui.tooltip;
 
 
 }));
+</script>
+
+<script>
+$( function() {
+var availableKurir = [
+"JNE OKE",
+"JNE REG",
+"JNE YES"
+];
+$( "#kurir" ).autocomplete({
+source: availableKurir
+});
+} );
 </script>
 
 <script>
