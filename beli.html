@@ -16,7 +16,7 @@ description: Silakan isi form pembeian dibawah ini untuk proses pemesanan dan pe
 									<div class="contact-form">
 					    				<form id="main-contact-form" class="contact-form row" name="contact-form" method="post" action="https://formspree.io/lipatanid@gmail.com">
 								            <p><b>DATA PEMBELI</b></p>
-											<p>Silakan isi form pembeian dibawah ini untuk proses pemesanan dan pengiriman barang :</p>			
+											<p>Silakan isi form pembelian dibawah ini untuk proses pemesanan dan pengiriman barang :</p>			
 
 											<div class="form-group col-md-6">
 								                <input id="sku" type="text" name="kode" class="form-control" required="required" placeholder="Kode Barang. Contoh : CNS 058 / YI 067 (2 buah)">
@@ -36,7 +36,7 @@ description: Silakan isi form pembeian dibawah ini untuk proses pemesanan dan pe
 								                <input type="text" name="alamat" class="form-control" required="required" placeholder="Alamat. Nama Jalan, RT, RW, Nomor Rumah">
 								            </div>
 								            <div class="form-group col-md-6 ui-widget">
-								                <input id="propinsi" type="text" name="provinsi" class="form-control" required="required" placeholder="Provinsi (Gunakan Spasi / Ketik)">
+								                <input id="provinsi" type="text" name="provinsi" class="form-control" required="required" placeholder="Provinsi (Gunakan Spasi / Ketik)">
 								            </div>
 
 								            <div class="form-group col-md-6 ui-widget">
@@ -57,11 +57,11 @@ description: Silakan isi form pembeian dibawah ini untuk proses pemesanan dan pe
 								                <input id="kurir" type="text" name="kurir" class="form-control" required="required" placeholder="Kurir (Gunakan Spasi / Ketik)">
 								            </div>
 								            <div class="form-group col-md-6">
-								                <input type="email" name="email" class="form-control" required="required" placeholder="Email">
+								                <input type="email" name="email" class="form-control" placeholder="Email">
 								            </div>
 
 								            <div class="form-group col-md-12">
-								                <textarea name="message" id="message" required="required" class="form-control" rows="8" placeholder="Catatan (jika ada)"></textarea>
+								                <textarea name="message" id="message" class="form-control" rows="8" placeholder="Catatan (jika ada)"></textarea>
 								            </div>
 
 								            <p><b>DATA DROPSHIPER</b></p>
@@ -92,6 +92,16 @@ description: Silakan isi form pembeian dibawah ini untuk proses pemesanan dan pe
 						</div>												
 						
 					</div><!--features_items-->
+					<hr>
+					Setelah Anda mengirimkan data, kami akan hitungkan total harganya yaitu harga produk + ongkos kirim. Total harga akan kami infokan via WA/SMS/Email. Jika dalam waktu 30 menit Anda belum menerima info total harga, silakan hubungi kami via : <a href="https://api.whatsapp.com/send?phone={{ site.nstelp }}&text={{ site.url }}{{ site.baseurl }}{{ page.url }}%20Saya%20mau%20beli%20ini%20kak." target="_blank" title="Beli via WhatsApp"><img src="{{ site.url }}/img/WhatsApp.png" alt="WhatsApp Icon" title="Beli via WhatsApp"></a>
+
+<a href="{{ site.line }}" target="_blank" title="Beli via Line"><img src="{{ site.url }}/img/Line.png" alt="Line Icon" title="Beli via Line"></a>
+
+<a href="bbmi://{{ site.bbm }}" target="_blank" title="Beli via BBM"><img src="{{ site.url }}/img/BBM.png" alt="BBM Icon" title="Beli via BBM"></a>
+
+<a href="sms:+{{ site.nstelp }}?body={{ site.url }}{{ site.baseurl }}{{ page.url }}%20Saya%20mau%20beli%20ini%20kak." target="_blank" title="Beli via SMS"><img src="{{ site.url }}/img/SMS.png" alt="SMS Icon" title="Beli via SMS"></a>
+
+<a href="mailto:{{ site.email }}" target="_blank" title="Beli via Email"><img src="{{ site.url }}/img/Email.png" alt="Email Icon" title="Beli via Email"></a> . Setelah Anda mendapatkan info total harga, segera lakukan pembayaran dan konfirmasi di halaman <a href="{{ site.url }}/konfirmasi-pembayaran" title="Konfirmasi Pembayaran">Konfirmasi Pembayaran</a>. Pembayaran yang sudah diterima akan kami infokan via WA/SMS/Email. Jika dalam waktu 30 menit Anda belum menerima info pembayaran diterima, silakan hubungi kami.
 
 <style type="text/css">
 /*! jQuery UI - v1.12.1 - 2016-09-14
@@ -21572,7 +21582,7 @@ source: availableSku
 
 <script>
 $( function() {
-var availablePropinsi = [
+var availableProvinsi = [
 "BALI ",
 "BANGKA BELITUNG ",
 "BANTEN ",
@@ -21608,8 +21618,8 @@ var availablePropinsi = [
 "SUMATERA SELATAN ",
 "SUMATERA UTARA "
 ];
-$( "#propinsi" ).autocomplete({
-source: availablePropinsi
+$( "#provinsi" ).autocomplete({
+source: availableProvinsi
 });
 } );
 </script>
