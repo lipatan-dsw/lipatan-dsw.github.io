@@ -14,52 +14,46 @@ description: Halaman konfirmasi pembayaran. Jika Anda sudah melakukan pembayaran
 								<div class="col-sm-12">
 									<p>Pembayaran dapat dikirim ke salah satu rekening berikut ini :<br>
 									Bank BCA : {{ site.bca }}<br>
-									Bank Muamalat : {{ site.muamalat }}<br>
+									Bank Muamalat : {{ site.muamalat }}</p>
 
-									<p>Setelah pembayaran, silahkan konfirmasi pembayaran Anda ke salah satu kontak kami. Berikut ini kontak kami :<br>
-									SMS/WA/Line : {{ site.telp }}<br>
-									BBM : {{ site.bbm }}<br>
-									Email : {{ site.email }}</p>
-
-									<p>Atau bisa juga konfirmasi dengan cara mengisi data di bawah ini :</p>
+									<p>Setelah pembayaran, silahkan konfirmasi pembayaran Anda dengan mengisi data di bawah ini :</p>
 
 									<div class="contact-form">
-					    				<form id="main-contact-form" class="contact-form row" name="contact-form" method="post" action="https://formspree.io/lipatanid@gmail.com">
+					    				<script type="text/javascript">var submitted=false;</script>
+        								<iframe name="hidden_iframe" id="hidden_iframe" style="display:none" onload="if(submitted) {window.location='https://www.lipatan.com/data-pembayaran';}"></iframe>
+					    				<form id="main-contact-form" class="form contact-form row" name="contact-form" method="post" action="https://docs.google.com/forms/d/e/1FAIpQLSd40vDqgiwbF3T6rg83jgbIzD_2i1gJXwmJblWX9YOxMvK_gg/formResponse" target="hidden_iframe" onsubmit="submitted=true;">
 								            <div class="form-group col-md-6">
-								                <input type="text" name="name" class="form-control" required="required" placeholder="Nama Pemilik Rekening">
+								                <input type="text" name="entry.2005620554" class="form-control" required="required" placeholder="Nama Pemilik Rekening">
 								            </div>
 								            <div class="form-group col-md-6">
-								                <input type="number" name="nominal" class="form-control" required="required" placeholder="Jumlah Bayar">
-								            </div>
-
-								            <div class="form-group col-md-6">
-								                <input type="date" name="tanggal" class="form-control" required="required" placeholder="Tanggal Bayar">
-								            </div>
-								            <div class="form-group col-md-6">
-								                <input type="text" name="cara" class="form-control" required="required" placeholder="Cara Pembayaran (Transfer Bank/ATM, Internet/Mobile/SMS Banking)">
+								                <input type="number" name="entry.1065046570" class="form-control" required="required" placeholder="Jumlah Bayar">
 								            </div>
 
 								            <div class="form-group col-md-6">
-								                <input type="text" name="kebank" class="form-control" required="required" placeholder="Transfer ke Rekening Mana (BCA/Muamalat)">
+								                <input type="date" name="entry.256359421" class="form-control" required="required" placeholder="Tanggal Bayar">
 								            </div>
 								            <div class="form-group col-md-6">
-								                <input type="text" name="daribank" class="form-control" required="required" placeholder="Transfer dari Rekening Mana (Bank Anda)">
+								                <input type="text" name="entry.266021437" class="form-control" required="required" placeholder="Cara Pembayaran (Transfer Bank/ATM, Internet/Mobile/SMS Banking)">
 								            </div>
 
 								            <div class="form-group col-md-6">
-								                <input type="number" name="no-hp" class="form-control" required="required" placeholder="HP / Telp">
+								                <input type="text" name="entry.295121796" class="form-control" required="required" placeholder="Transfer ke Rekening Mana (BCA/Muamalat)">
 								            </div>
 								            <div class="form-group col-md-6">
-								                <input type="email" name="email" class="form-control" placeholder="Email Anda">
+								                <input type="text" name="entry.209733744" class="form-control" required="required" placeholder="Transfer dari Rekening Mana (Bank Anda)">
+								            </div>
+
+								            <div class="form-group col-md-6">
+								                <input type="number" name="entry.1166974658" class="form-control" required="required" placeholder="HP / Telp">
+								            </div>
+								            <div class="form-group col-md-6">
+								                <input type="email" name="entry.1045781291" class="form-control" placeholder="Email Anda">
 								            </div>
 
 								            <div class="form-group col-md-12">
-								                <textarea name="message" id="message" required="required" class="form-control" rows="8" placeholder="Sebutkan produk dan nama pembeli"></textarea>
+								                <textarea name="entry.839337160" id="message" required="required" class="form-control" rows="8" placeholder="Sebutkan produk dan nama pembeli"></textarea>
 								            </div>
 
-								            <input type="hidden" name="_subject" value="Konfirmasi Pembayaran" />			            
-								            <input type="hidden" name="_next" value="https://www.lipatan.com/thanks" />			                
-								            <input type="text" name="_gotcha" style="display:none" />				            
 								            <div class="form-group col-md-12">
 								                <input type="submit" class="btn btn-primary pull-right" value="Kirim">			                
 								            </div>
