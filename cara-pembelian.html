@@ -12,26 +12,27 @@ description: Halaman cara pembelian. Baca terlebih dahulu sebelum membeli.
 						<div class="tab-content">
 							<div id="ratajustify">
 								<div class="col-sm-12">
-									<p>Cara pembelian di {{ site.author }} sangat mudah, Anda tinggal mengklik tombol "Beli via" yang ada di masing-masing produk. Tombolnya seperti ini:</p>
+									<p>Cara pembelian di {{ site.author }} sangat mudah, cara nya seperti ini :</p>
 
-									<p>{% include buy.html %}</p>
+									<ul>
+										<li>Klik tombol <a href="{{ site.url }}/beli" title="Form Pembelian" target="_blank">Beli</a> yang ada di masing-masing produk</li>
+										<li>Isi data Anda dengan lengkap dan benar</li>
+										<li>Setelah itu kami infokan total harga (harga produk + ongkos kirim) yang harus dibayar dan nomor rekening pembayaran</li>
+										<li>Setelah pembayaran berhasil, segera lakukan  <a href="{{ site.url }}/konfirmasi-pembayaran" title="Konfirmasi Pembayaran" target="_blank">Konfirmasi Pembayaran</a></li>
+										<li>Kami akan cek status dana pembayaran Anda apakah sudah masuk rekening atau belum. Lalu kami informasikan kembali status nya ke Anda</li>
+										<li>Barang kami kirim ke alamat Anda</li>
+									</ul>										
 									
-									<p>Akan lebih memudahkan jika Anda menyimpan kontak kami terlebih dahulu. Berikut ini kontak kami :<br>
-									SMS/WA/Line : {{ site.telp }}<br>
-									BBM : {{ site.bbm }}<br>
-									Email : {{ site.email }}</p>
-									
-									<p>Sebelum membeli harap menanyakan ketersedian stok terlebih dahulu serta ongkos kirimnya kepada kami. Atau Anda juga dapat mengecek stok secara langsung di halaman <a href="http://stok.lipatan.com" title="Cek Stok" target="_blank">Cek Stok</a> dan ongkos kirim di halaman <a href="http://ongkir.lipatan.com" title="Ongkos Kirim" target="_blank">Ongkos Kirim</a>. Ongkos kirim yang kami gunakan adalah JNE REG, JNE YES atau JNE OKE. Ongkos kirim dihitung dari asal lokasi gudang. Lokasi gudang dapat diketahui di penjelasan masing-masing produk. Contoh :</p>
+									<p>Sebelum membeli harap menanyakan ketersedian stok terlebih dahulu, atau Anda juga dapat mengecek stok secara langsung di halaman <a href="http://stok.lipatan.com" title="Cek Stok" target="_blank">Cek Stok</a>. Untuk ongkos kirim dapat di cek di halaman <a href="http://ongkir.lipatan.com" title="Ongkos Kirim" target="_blank">Ongkos Kirim</a>. Ongkos kirim yang kami gunakan adalah JNE REG, JNE YES atau JNE OKE. Ongkos kirim dihitung dari asal lokasi gudang. Lokasi gudang dapat diketahui di penjelasan masing-masing produk. Contoh :</p>
 
 									<p style="background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);">
 									Gudang : WRH-1<br>
 									Lokasi : Bandung</p>
 									
-									<p>Setelah total harga (harga produk + harga ongkos kirim) diketahui, segera lakukan pembayaran. Pembayaran dapat dikirim ke salah satu rekening berikut ini :<br>
+									<p>Pembayaran dapat dikirim ke salah satu rekening berikut ini :<br>
 									Bank BCA : {{ site.bca }}<br>
-									Bank Muamalat : {{ site.muamalat }}<br>
-
-									<p>Setelah pembayaran, harap konfirmasi ke salah satu kontak diatas disertai alamat lengkap pengiriman. Pesanan Anda akan kami proses dan barang akan kami kirim ke alamat Anda via JNE REG, JNE YES atau JNE OKE.</p>
+									Bank Muamalat : {{ site.muamalat }}<br></p>
+									
 									<br><br>
 									
 								</div>
