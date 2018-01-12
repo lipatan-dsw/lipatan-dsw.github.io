@@ -2,7 +2,7 @@
 layout: default
 title: Hubungi Kami
 permalink: hubungi-kami
-description: Hubungi kami dengan SMS, WhatsApp, Line, BBM atau Email. Anda juga dapat melihat google map kami dan sosial media kami, facebook, twitter dan google plus.
+description: Hubungi kami dengan WhatsApp, Facebook Messenger, SMS atau Email. Anda juga dapat melihat google map kami dan sosial media kami, facebook, twitter, google plus, instagram dan pinterest.
 ---
 	 
 	 <div id="contact-page" class="container">
@@ -34,7 +34,7 @@ description: Hubungi kami dengan SMS, WhatsApp, Line, BBM atau Email. Anda juga 
 				                <input type="text" name="subject" class="form-control" required="required" placeholder="Judul">
 				            </div>
 				            <div class="form-group col-md-12">
-				                <textarea name="message" id="message" required="required" class="form-control" rows="8" placeholder="Isi Pesan Anda"></textarea>
+				                <textarea name="message" id="message" required="required" class="form-control" rows="10" placeholder="Isi Pesan Anda"></textarea>
 				            </div>
 				            <input type="hidden" name="_subject" value="Hubungi Kami" />			            
 				            <input type="hidden" name="_next" value="https://www.lipatan.com/thanks" />			                
@@ -51,15 +51,13 @@ description: Hubungi kami dengan SMS, WhatsApp, Line, BBM atau Email. Anda juga 
 	    				<address>
 	    					<p>CUSTOMER SERVICE</p>
 							<p>
-								<a href="https://api.whatsapp.com/send?phone={{ site.nstelp }}" target="_blank" title="CS via WhatsApp"><img src="{{ site.url }}/img/WhatsApp.png" alt="WhatsApp Icon" title="CS via WhatsApp"></a>
+								<a href="https://api.whatsapp.com/send?phone={{ site.nstelp }}" target="_blank" title="CS via WhatsApp"><img src="{{ site.url }}/img/whatsapp1.png" alt="WhatsApp Icon" title="CS via WhatsApp"></a>
 
-								<a href="{{ site.line }}" target="_blank" title="CS via Line"><img src="{{ site.url }}/img/Line.png" alt="Line Icon" title="CS via Line"></a>
+								<a href="https://m.me/{{ site.fbmessenger }}" target="_blank" title="CS via FB Messenger"><img src="{{ site.url }}/img/fbmessenger1.png" alt="FB Messenger Icon" title="CS via FB Messenger"></a>
 
-								<a href="bbmi://{{ site.bbm }}" target="_blank" title="CS via BBM"><img src="{{ site.url }}/img/BBM.png" alt="BBM Icon" title="CS via BBM"></a>
+								<a href="sms:+{{ site.nstelp }}" target="_blank" title="CS via SMS"><img src="{{ site.url }}/img/sms1.png" alt="SMS Icon" title="CS via SMS"></a>
 
-								<a href="sms:+{{ site.nstelp }}" target="_blank" title="CS via SMS"><img src="{{ site.url }}/img/SMS.png" alt="SMS Icon" title="CS via SMS"></a>
-
-								<a href="mailto:{{ site.email }}" target="_blank" title="CS via Email"><img src="{{ site.url }}/img/Email.png" alt="Email Icon" title="CS via Email"></a>
+								<a href="mailto:{{ site.email }}" target="_blank" title="CS via Email"><img src="{{ site.url }}/img/email1.png" alt="Email Icon" title="CS via Email"></a>
 							</p>
 							<p>Senin - Jumat : 9.00 - 17.00</p>
 							<p>Sabtu : 9.00 - 13.00</p>
