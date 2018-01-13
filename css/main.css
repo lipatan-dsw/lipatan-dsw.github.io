@@ -2312,6 +2312,12 @@ h3.title {
 }
 
 
+.blog-image img {
+  height: 32px;
+  width: 32px;  
+}
+
+
 .socials-share {
   margin-bottom: 30px;
   margin-top: 18px;
